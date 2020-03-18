@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Star Wars API
+Visit https://swapi.co for the Star Wars API that was used in this demo.
+
 ## Available Scripts
 
 In the project directory, you can run:
